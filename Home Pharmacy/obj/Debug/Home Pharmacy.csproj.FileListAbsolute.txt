@@ -1,0 +1,17 @@
+D:\Iteration-master\Home Pharmacy\Home Pharmacy\bin\Debug\PharmacyData.mdf
+D:\Iteration-master\Home Pharmacy\Home Pharmacy\bin\Debug\PharmacyData_log.ldf
+D:\Iteration-master\Home Pharmacy\Home Pharmacy\bin\Debug\Home Pharmacy.exe.config
+D:\Iteration-master\Home Pharmacy\Home Pharmacy\bin\Debug\Home Pharmacy.exe
+D:\Iteration-master\Home Pharmacy\Home Pharmacy\bin\Debug\Home Pharmacy.pdb
+D:\Iteration-master\Home Pharmacy\Home Pharmacy\obj\Debug\Home Pharmacy.csproj.AssemblyReference.cache
+D:\Iteration-master\Home Pharmacy\Home Pharmacy\obj\Debug\Home Pharmacy.csproj.SuggestedBindingRedirects.cache
+D:\Iteration-master\Home Pharmacy\Home Pharmacy\obj\Debug\Home_Pharmacy.Form1.resources
+D:\Iteration-master\Home Pharmacy\Home Pharmacy\obj\Debug\Home_Pharmacy.Properties.Resources.resources
+D:\Iteration-master\Home Pharmacy\Home Pharmacy\obj\Debug\Home Pharmacy.csproj.GenerateResource.cache
+D:\Iteration-master\Home Pharmacy\Home Pharmacy\obj\Debug\Home Pharmacy.csproj.CoreCompileInputs.cache
+D:\Iteration-master\Home Pharmacy\Home Pharmacy\obj\Debug\Home Pharmacy.exe
+D:\Iteration-master\Home Pharmacy\Home Pharmacy\obj\Debug\Home Pharmacy.pdb
+D:\Iteration-master\Home Pharmacy\Home Pharmacy\obj\Debug\Home_Pharmacy.Form2.resources
+D:\Iteration-master\Home Pharmacy\Home Pharmacy\obj\Debug\Home_Pharmacy.Form3.resources
+D:\Iteration-master\Home Pharmacy\Home Pharmacy\obj\Debug\Home_Pharmacy.Form4.resources
+D:\Iteration-master\Home Pharmacy\Home Pharmacy\obj\Debug\Home_Pharmacy.Form5.resources
